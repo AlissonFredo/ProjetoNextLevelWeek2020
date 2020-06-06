@@ -1,12 +1,13 @@
 const express = require("express")
 const server = express()
 
-//configurar pasta publica
+//pegar banco de dados
+const db = require("./database/db.js")
 
+//configurar pasta publica
 server.use(express.static("public"))
 
 //utilizando template egine
-
 const nunjucks = require("nunjucks")
 nunjucks.configure("src/views", {
     express: server,
@@ -14,7 +15,6 @@ nunjucks.configure("src/views", {
 })
 
 //configurar caminhos da minha aplicação //pagina inicial //req: Requisição e res: Resposta
-
 server.get("/", (req, res) =>{
     return res.render("index.html")
 })
