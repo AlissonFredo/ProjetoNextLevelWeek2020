@@ -14,7 +14,7 @@ Abra o terminal e entre com o comando npm start.
 Depois abra seu navegador e na barra de endereço digite localhost:5000
 ![localhost:5000](https://github.com/AlissonFredo/ProjetoNextLevelWeek2020/blob/master/imagens/localhost.PNG?raw=true)
 
-Agora você pode navegar pelas páginas do projeto!
+# Agora você pode navegar pelas páginas do projeto!
 
 Página inicial:
 ![pagina inicial](https://github.com/AlissonFredo/ProjetoNextLevelWeek2020/blob/master/imagens/paginainicial.PNG)
