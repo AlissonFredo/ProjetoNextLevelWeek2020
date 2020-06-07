@@ -20,7 +20,9 @@ Página inicial:
 ![pagina inicial](https://github.com/AlissonFredo/ProjetoNextLevelWeek2020/blob/master/imagens/paginainicial.PNG)
 
 Página de cadastro:
+
 ![Página de cadastro](https://github.com/AlissonFredo/ProjetoNextLevelWeek2020/blob/master/imagens/paginacadastro.PNG?raw=true)
+
 obs: esta imagem foi diminuido o zoom para pode caber no print. A página não esta muito nitida desculpas.
 
 Página de pesquisa:
