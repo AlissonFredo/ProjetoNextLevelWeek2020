@@ -9,5 +9,5 @@ Usamos HTML5, CSS3, Java Script, Node.js, Express, Nunjucks e SQL.
 Para rodar a aplicação siga o passo a passo:
 
 abra o terminal e entre com o comando npm start.
-![]()
+![npm start](https://github.com/AlissonFredo/ProjetoNextLevelWeek2020/blob/master/imagens/npm%20start.PNG)
  
